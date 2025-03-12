@@ -2,27 +2,27 @@ PODS:
   - deepspeech_flutter (0.0.1):
     - Flutter
   - Flutter (1.0.0)
-  - path_provider (0.0.1):
+  - path_provider_ios (0.0.1):
     - Flutter
 
 DEPENDENCIES:
   - deepspeech_flutter (from `.symlinks/plugins/deepspeech_flutter/ios`)
   - Flutter (from `Flutter`)
-  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - path_provider_ios (from `.symlinks/plugins/path_provider_ios/ios`)
 
 EXTERNAL SOURCES:
   deepspeech_flutter:
     :path: ".symlinks/plugins/deepspeech_flutter/ios"
   Flutter:
     :path: Flutter
-  path_provider:
-    :path: ".symlinks/plugins/path_provider/ios"
+  path_provider_ios:
+    :path: ".symlinks/plugins/path_provider_ios/ios"
 
 SPEC CHECKSUMS:
   deepspeech_flutter: 90e704ba0b2ecd97eae34d736f13f2bbec162cec
-  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
-  path_provider: abfe2b5c733d04e238b0d8691db0cfd63a27a93c
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  path_provider_ios: 14f3d2fd28c4fdb42f44e0f751d12861c43cee02
 
-PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+PODFILE CHECKSUM: c4c93c5f6502fe2754f48404d3594bf779584011
 
-COCOAPODS: 1.10.1
+COCOAPODS: 1.16.2
